@@ -2,7 +2,7 @@ Note re tidy:
 
 stevee954_tidy_5.csv is  not tidy, i now see, because each measure is a column.   I got sidetracked on wanting to produce a readable report.
 
-mean_std_final4.csv IS tidy.  pls regard that as my submission.
+steve954_tidy.txt   pls regard that as my submission.
 
 thanks.
 
